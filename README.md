@@ -10,6 +10,15 @@ Eu sou uma superpasta e viajo pelo espaço e tempo
 Texto normal.
 Neste repositório vamos ver os super-poderes de versionamento 
 
+
 # Exemplo inserindo uma imagem
-![imagem qualquer][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uhdpaper.com%2F2023%2F06%2Fluffy-gear-5-one-piece-4k-6121l.html%3Fm%3D0&psig=AOvVaw09_sVdopMaHvaWYuVXYab9&ust=1724892399286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCahoq7logDFQAAAAAdAAAAABAE]
+![imagem qualquer](https://guiadosanimes.com.br/wp-content/uploads/2024/07/Luffy.webp)
+
+
+# Exemplo inserindo um link com texto
+Dentro do colchete, vai o texto que aprece na pagina. Dentro do parentesis, vai o endereço de destino (link)
+
+# Exemplo inserindo imagem com link
+[![imagem qualquer](https://www.umnoob.com.br/wp-content/uploads/2023/08/one-piece-luffy-gear-5-.jpeg)](https://www.youtube.com/)
+
 
