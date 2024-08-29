@@ -19,6 +19,6 @@ Neste repositório vamos ver os super-poderes de versionamento
 Dentro do colchete, vai o texto que aprece na pagina. Dentro do parentesis, vai o endereço de destino (link)
 
 # Exemplo inserindo imagem com link
-[![imagem qualquer](https://www.umnoob.com.br/wp-content/uploads/2023/08/one-piece-luffy-gear-5-.jpeg)](https://www.youtube.com/)
+[![imagem qualquer](https://www.umnoob.com.br/wp-content/uploads/2023/08/one-piece-luffy-gear-5-.jpeg)](https://youtu.be/e1NFbPt9byQ?si=dbWTDs9NjDr9lq-C)
 
 
